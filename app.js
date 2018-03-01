@@ -1,1 +1,1 @@
-alert('hello World');
+alert(require('./people.js'));
