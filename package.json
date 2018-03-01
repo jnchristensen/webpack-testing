@@ -1,0 +1,27 @@
+{
+  "name": "webpack-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnchristensen/webpack-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jnchristensen/webpack-testing/issues"
+  },
+  "homepage": "https://github.com/jnchristensen/webpack-testing#readme",
+
+
+  "dependencies": {
+    "webpack": "^4.0.1"
+  },
+  "devDependencies": {
+    "webpack-cli": "^2.0.9"
+  }
+}
